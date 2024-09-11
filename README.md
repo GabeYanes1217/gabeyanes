@@ -1,4 +1,19 @@
- focados em conceitos de UX Design.
+# Olá, eu sou o Gabriel Yanes! 👋
+
+
+## 🚀 Sobre mim
+Sou um desenvolvedor apaixonado por criar e imaginar novos projetos, o que me levou a seguir carreira em UX Design. Estou
+constantemente aprimorando minhas habilidades de desenvolvimento e construindo uma base sólida para futuros trabalhos em UX
+Design. Apesar de estar no início da minha jornada, tenho confiança nas minhas capacidades e estou entusiasmado com o potencial à frente. Acredito em aproveitar ao máximo a vida e cada oportunidade, vivendo pelo lema: "Uma vida, uma chance".
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabeyanes&show_icons=true&theme=onedark) 
+
+## 🛠 Habilidades
+Frontend Development
+
+    HTML, CSS & JavaScript: 1 ano e 6 meses de experiência, focado em projetos voltados para as necessidades do mercado.
+    Figma: 2 anos de experiência, com formação em 3 cursos pela Alura, focados em conceitos de UX Design.
     Adobe Illustrator: 6 meses de experiência em designs vetorizados de alta qualidade.
     Adobe Photoshop: 6 meses de experiência em criação de designs para landing pages.
 

@@ -1,37 +1,45 @@
-# Olá, eu sou o Gabriel Yanes! 👋
 
+# Workshop: Criação de Portfólio com HTML, CSS e JavaScript
 
-## 🚀 Sobre mim
-Sou um desenvolvedor apaixonado por criar e imaginar novos projetos, o que me levou a seguir carreira em UX Design. Estou
-constantemente aprimorando minhas habilidades de desenvolvimento e construindo uma base sólida para futuros trabalhos em UX
-Design. Apesar de estar no início da minha jornada, tenho confiança nas minhas capacidades e estou entusiasmado com o potencial à frente. Acredito em aproveitar ao máximo a vida e cada oportunidade, vivendo pelo lema: "Uma vida, uma chance".
+Este repositório contém o código e os materiais do Workshop de Criação de Portfólio realizado na Fatec. O objetivo do projeto é ensinar como desenvolver um portfólio pessoal usando as tecnologias de HTML, CSS e JavaScript, além de como versionar o código com o GitHub e publicá-lo no Vercel.
 
+## Objetivo do Projeto
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabeyanes&show_icons=true&theme=onedark) 
+O principal objetivo deste workshop é capacitar os alunos a criarem um portfólio profissional do zero, demonstrando suas habilidades técnicas e projetos de destaque. Durante o workshop, abordamos os seguintes tópicos:
 
-## 🛠 Habilidades
-Frontend Development
+    Princípios básicos de HTML e CSS
+    Criação de um código semântico e organizado
+    Introdução ao JavaScript com foco na manipulação do DOM
+    Importância de um README bem estruturado no GitHub
+    Publicação de projetos utilizando o Vercel
+    Organização de certificados e projetos no portfólio
 
-    HTML, CSS & JavaScript: 1 ano e 6 meses de experiência, focado em projetos voltados para as necessidades do mercado.
-    Figma: 2 anos de experiência, com formação em 3 cursos pela Alura, focados em conceitos de UX Design.
-    Adobe Illustrator: 6 meses de experiência em designs vetorizados de alta qualidade.
-    Adobe Photoshop: 6 meses de experiência em criação de designs para landing pages.
+## Tecnologias Utilizadas
 
-Backend Development
+    Princípios básicos de HTML e CSS
+    Criação de um código semântico e organizado
+    Introdução ao JavaScript com foco na manipulação do DOM
+    Importância de um README bem estruturado no GitHub
+    Publicação de projetos utilizando o Vercel
+    Organização de certificados e projetos no portfólio
 
-    PHP: 3 meses de experiência.
-    MySQL: 1 semestre de experiência em cursos extracurriculares.
-    PL/SQL: 1 ano de aprendizado na faculdade.
-    C#: Conhecimento básico da linguagem.
-    Python: Introdução breve, com facilidade na sintaxe.
-    C++: Conhecimento básico, utilizado em Estruturas de Dados.
+# 🔗 Links
 
-DevOps & Infraestrutura
+## Live Demo
 
-    Azure: Conhecimentos na criação de VMs, bancos de dados, e deploy de aplicações em VMs.
-    Sistema Operacional Linux: 1 semestre de trabalho com o sistema operacional.
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabeyanes.vercel.app/)
 
+## Linkedin 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-03-eoy8v1t3i-gabriel-yanes-projects.vercel.app/)
+### Gabriel Yanes 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-yanes-br013/)
+
+### Leonardo Souza
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-sf98/)
+
+
+## Autores
+
+- [@gabeyanes](https://github.com/gabeyanes)
+
+- [@leonardosf98](https://github.com/leonardosf98)

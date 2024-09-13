@@ -1,14 +1,20 @@
 
 // CÓDIGO DO MENU MOBILE
-const btnMobile = document.getElementById('btn-mobile');
+// const btnMobile = document.getElementById('btn-mobile');
 
-function toggleMenu(){
+// function toggleMenu(){
+//   const nav = document.getElementById('nav');
+//   nav.classList.toggle('active');
+// }
+
+// btnMobile.addEventListener('click', toggleMenu);
+
+const btnMobile = document.querySelector('#btn-mobile');
+
+btnMobile.addEventListener('click', function toggleMenu(){
   const nav = document.getElementById('nav');
   nav.classList.toggle('active');
-}
-
-btnMobile.addEventListener('click', toggleMenu);
-
+})
 
 // CÓDIGO DO DARKMODE 
 let darkmode = localStorage.getItem('darkmode');
@@ -34,15 +40,14 @@ trocaTema.addEventListener("click", () => {
   }
 })
 
-
 // CÓDIGO DO SCROLL
 document.querySelectorAll('.link-icon-ancora').forEach(anchor => {
-  anchor.addEventListener('click', function (e) {
-      e.preventDefault();
-      var sectionId = this.getAttribute('href');
-      var section = document.querySelector(sectionId);
-      if (section) {
-          window.scrollTo({ top: section.offsetTop, behavior: 'smooth' });
-      }
+  anchor.addEventListener('click', e => {
+    e.preventDefault();
+    const sectionId = anchor.getAttribute('href');
+    const section = document.querySelector(sectionId);
+    if (section) {
+      section.scrollIntoView({ behavior: 'smooth' });
+    }
   });
 });

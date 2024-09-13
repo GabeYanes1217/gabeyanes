@@ -394,6 +394,10 @@ p {
 
 @media only screen and (max-width:600px), (hover: none) {
 
+  li::before {
+    display: none;
+  }
+
   #btn-mobile {
     display: flex;
     background: none;

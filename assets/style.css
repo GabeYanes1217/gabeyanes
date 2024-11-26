@@ -230,6 +230,11 @@ footer svg {
   justify-content: center;
 }
 
+#cardproject{
+  width: 250px;
+  height: 250px;
+}
+
 .card2,
 .card {
   display: flex;
